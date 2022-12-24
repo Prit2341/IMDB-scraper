@@ -1,13 +1,5 @@
 # IMDB Scraper
 
-![](https://img.shields.io/github/license/dojutsu-user/IMDB-Scraper.svg?style=for-the-badge)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg?style=for-the-badge)](https://GitHub.com/dojutsu-user/IMDB-Scraper/graphs/contributors/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/dojutsu-user/IMDB-Scraper/pulls)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-# Overview
-
 This is a [Scrapy](https://github.com/scrapy/scrapy) project which can be used to crawl [IMDB](https://www.imdb.com/) website to scrape movies' information and then store the data in `json` format. 
 
 ## Crawling
